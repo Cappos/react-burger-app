@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Auxe from '../../../hoc/Auxe';
+import Auxe from '../../../hoc/Auxe/Auxe';
 import Button from '../../UI/Button/Button';
 
 class OrderSummary extends Component {
